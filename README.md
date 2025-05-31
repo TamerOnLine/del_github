@@ -23,7 +23,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/del_github.git
+   git clone https://github.com/tameronline/del_github.git
    cd del_github
    ```
 
